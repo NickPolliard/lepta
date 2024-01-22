@@ -1,2 +1,2 @@
-# Stonker
-Stock data API
+# lepta
+maneyball data API
